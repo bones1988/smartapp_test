@@ -1,0 +1,7 @@
+smartapp.index_page:
+  path: 'smartapp'
+  defaults:
+    _form: '\Drupal\smartapp\Form\FormPage'
+    _title: 'Smart App'
+  requirements:
+     _permission: 'access content'

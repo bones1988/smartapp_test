@@ -1,0 +1,5 @@
+name: Smart app
+description: Custom form for test task in smart app
+core: 8.x
+type: module
+package: Smart app
